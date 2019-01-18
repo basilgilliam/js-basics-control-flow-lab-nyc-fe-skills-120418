@@ -2,5 +2,5 @@
 function scuberGreetingForFeet(aNumber) {
  if(aNumber <= 400){
  return "This one is one me!"
- } else if(aNumber)
+ } else if(aNumber )
 }
