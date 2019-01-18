@@ -9,6 +9,8 @@ function scuberGreetingForFeet(aNumber) {
  }
 }
 
-function ternaryCheckCity(randomDestination){
-  if (randomDestination 
+function ternaryCheckCity(destination){
+  if (destination = "nyc"){
+    return "ok sounds good"
+  }
 } 
