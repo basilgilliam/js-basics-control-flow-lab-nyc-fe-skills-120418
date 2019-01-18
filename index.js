@@ -9,4 +9,6 @@ function scuberGreetingForFeet(aNumber) {
  }
 }
 
-
+function ternaryCheckCity(){
+  
+} 
