@@ -10,5 +10,5 @@ function scuberGreetingForFeet(aNumber) {
 }
 
 function ternaryCheckCity(randomDestination){
-  if (randomDestination = 
+  if (randomDestination 
 } 
