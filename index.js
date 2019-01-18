@@ -24,7 +24,7 @@ function switchOnCharmFromTip(generous){
   } 
 function switchOnCharmFromTip(notAsGenerous){
   switch(notAsGenerous){
-    case notAsGenerous: return ""
+    case notAsGenerous: return "Thank You."
   }
 }
 }
