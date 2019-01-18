@@ -16,3 +16,11 @@ function ternaryCheckCity(destination){
     return "No go."
   }
 } 
+
+function switchOnCharmFromTip(){
+  switch(generous){
+    case generous: return ""
+  }
+  
+}
+
